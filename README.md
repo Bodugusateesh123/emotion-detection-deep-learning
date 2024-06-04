@@ -44,4 +44,7 @@ This project implements a real-time emotion detection system using deep learning
 
 ## License
 - This project is licensed under the MIT License.
-You can copy and paste this template into a `README.md` file in your GitHub repository. Feel free to customize it further as needed, and make sure to update the placeholders like `your_username` with your actual GitHub username.
+
+- You can copy and paste this template into a `README.md` file in your GitHub repository.
+
+Feel free to customize it further as needed, and make sure to update the placeholders like `your_username` with your actual GitHub username.
